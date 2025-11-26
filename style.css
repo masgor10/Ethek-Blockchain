@@ -6,23 +6,6 @@ body {
   align-items: center;
 }
 
-.header {
-  background-color: violet;
-  width: 1250px;
-  height: 250px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.search-box input {
-  width: 400px;
-  padding: 10px;
-  border-radius: 8px;
-  border: none;
-  font-size: 16px;
-}
-
 .content {
   width: 1250px;
   padding: 20px;
@@ -53,3 +36,4 @@ button {
 button:hover {
   opacity: 0.8;
 }
+
