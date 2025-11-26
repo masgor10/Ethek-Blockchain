@@ -6,11 +6,6 @@ body {
   align-items: center;
 }
 
-.content {
-  width: 1250px;
-  padding: 20px;
-}
-
 .section {
   margin-bottom: 20px;
 }
@@ -36,4 +31,5 @@ button {
 button:hover {
   opacity: 0.8;
 }
+
 
